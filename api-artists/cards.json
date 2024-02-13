@@ -1,0 +1,11 @@
+//Não utilizando este arquivo ainda pois a chamada para ele para preencher os cards dinamicamente não estão funcionando
+{
+    "cards": [
+        {
+            "id": 1,
+            "title": "Boas festas",
+            "urlImg": "./src/assets/playlist/1.jpeg",
+            "rgbColor": "rgb(0, 100, 80)"
+        }
+    ]
+}
